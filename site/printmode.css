@@ -44,11 +44,3 @@ pre code {
 	border: 2px solid black !important;
 	white-space: pre-wrap !important;
 }
-
-a:after {
-	content: " [link]";
-}
-
-.print-mode {
-	display: none;
-}
